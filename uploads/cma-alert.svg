@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Bell -->
+  <path fill="#d32f2f" d="M16 3c-2.8 0-5 2.2-5 5v1.2c-3 1.1-5 4-5 7.3v6.1L4 24v1h24v-1l-2-1.4v-6.1c0-3.3-2-6.2-5-7.3V8c0-2.8-2.2-5-5-5zm0 25c1.3 0 2.4-1 2.5-2.2h-5c.1 1.2 1.2 2.2 2.5 2.2z"></path>
+
+  <!-- Notification Badge with Yellow Background -->
+  <circle cx="23" cy="9" r="5" fill="#ffeb3b"></circle>
+
+  <!-- Exclamation Mark -->
+  <text x="23" y="11" text-anchor="middle" font-size="6" font-family="Arial" fill="#000" font-weight="bold">!</text>
+</svg>
